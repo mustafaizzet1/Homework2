@@ -1,0 +1,10 @@
+Ali 150
+Cem 140
+Can 100
+Ece 90
+Pelin 80
+Sibel 80
+Remzi 70
+Yeliz 60
+Kaan 50
+Nazan 40
